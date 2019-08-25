@@ -39,4 +39,4 @@ The repository features notebooks for contest submission for **Tata Consultancy 
 
 + Used pretrained models from [tesseract](https://github.com/tesseract-ocr/tessdata/blob/master/kor.traineddata).
 
-+ Dataset URL [here](https://github.com/Biswajee/TCSHumain19LPR/blob/master/Indian_Number_plates.json)
++ Dataset URL [here](https://github.com/Biswajee/TCSHumain19LPR/blob/master/Indian_Number_plates.json).
